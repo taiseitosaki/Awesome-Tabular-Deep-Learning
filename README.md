@@ -10,32 +10,40 @@ This repository contains awesome tabular deep learning.
 
 ## 2019
 
-- TabFact: A Large-scale Dataset for Table-based Fact Verification [[Paper]](https://arxiv.org/abs/1909.02164)  
-- Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval [[Paper]](https://dl.acm.org/doi/abs/10.1145/3331184.3331333)
-
+- TabFact: A Large-scale Dataset for Table-based Fact Verification. [[Paper]](https://arxiv.org/abs/1909.02164)  
+- Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3331184.3331333)
+- Neural oblivious decision ensembles for deep learning on tabular data. [[Paper]](https://arxiv.org/abs/1909.06312)
+- SuperTML: Two-dimensional word embedding for the precognition on structured tabular data. [[Paper]](https://arxiv.org/abs/1903.06246)
 ---
 
 ## 2020
 
-- TableGPT: Few-shot Table-to-Text Generation with Table Structure Reconstruction and Content Matching [[Paper]](https://aclanthology.org/2020.coling-main.179.pdf)  
-- TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data [[Paper]](https://arxiv.org/abs/2005.08314)  
-- TaPas: Weakly Supervised Table Parsing via Pre-training [[Paper]](https://aclanthology.org/2020.acl-main.398.pdf)  
-- GraPPa (GaPPa): Grammar-Augmented Pre-Training for Table Semantic Parsing [[Paper]](https://arxiv.org/abs/2009.13845)  
-- VIME: Extending the Success of Self- and Semi-supervised Learning to the Tabular Domain [[Paper]](https://proceedings.neurips.cc/paper/2020/file/7d97667a3e056acab9aaf653807b4a03-Paper.pdf)  
-- TabTransformer: Tabular Data Modeling Using Contextual Embeddings [[Paper]](https://arxiv.org/abs/2012.06678)
-
+- TableGPT: Few-shot Table-to-Text Generation with Table Structure Reconstruction and Content Matching. [[Paper]](https://aclanthology.org/2020.coling-main.179.pdf)  
+- TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data. [[Paper]](https://arxiv.org/abs/2005.08314)  
+- TaPas: Weakly Supervised Table Parsing via Pre-training. [[Paper]](https://aclanthology.org/2020.acl-main.398.pdf)  
+- GraPPa (GaPPa): Grammar-Augmented Pre-Training for Table Semantic Parsing. [[Paper]](https://arxiv.org/abs/2009.13845)  
+- VIME: Extending the Success of Self- and Semi-supervised Learning to the Tabular Domain. [[Paper]](https://proceedings.neurips.cc/paper/2020/file/7d97667a3e056acab9aaf653807b4a03-Paper.pdf)  
+- TabTransformer: Tabular Data Modeling Using Contextual Embeddings. [[Paper]](https://arxiv.org/abs/2012.06678)
+- VIME: Extending the success of self-and semi-supervised learning to the tabular domain. [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/7d97667a3e056acab9aaf653807b4a03-Abstract.html)
+- Net-DNF: Effective deep modeling of tabular data. [[Paper]](https://openreview.net/forum?id=73WTGs96kho)
+- TabTransformer: Tabular data modeling using contextual embeddings. [[Paper]](https://arxiv.org/abs/2012.06678)
+- DNN2LR: Interpretation-inspired feature crossing for real-world tabular data. [[Paper]](https://arxiv.org/abs/2008.09775)
 ---
 
 ## 2021
 
-- TabNet: Attentive Interpretable Tabular Learning [[Paper]](https://arxiv.org/abs/1908.07442)  
-- Tabular Transformers for Modeling Multivariate Time Series [[Paper]](https://ieeexplore.ieee.org/abstract/document/9414142)  
-- TABBIE: Pretrained Representations of Tabular Data [[Paper]](https://arxiv.org/abs/2105.02584)  
-- TUTA: Tree-based Transformers for Generally Structured Table Pre-training [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467434)  
-- TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance [[Paper]](https://aclanthology.org/2021.acl-long.254.pdf)  
-- SubTab: Subsetting Features of Tabular Data for Self-Supervised Representation Learning [[Paper]](https://arxiv.org/pdf/2110.04361.pdf)  
-- CORE: Self- and Semi-supervised Tabular Learning with COnditional REgularizations [[Paper]](https://sslneurips21.github.io/files/CameraReady/CORE_workshop.pdf)
-
+- TabNet: Attentive Interpretable Tabular Learning. [[Paper]](https://arxiv.org/abs/1908.07442)  
+- Tabular Transformers for Modeling Multivariate Time Series. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9414142)  
+- TABBIE: Pretrained Representations of Tabular Data. [[Paper]](https://arxiv.org/abs/2105.02584)  
+- TUTA: Tree-based Transformers for Generally Structured Table Pre-training. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467434)  
+- TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance. [[Paper]](https://aclanthology.org/2021.acl-long.254.pdf)  
+- SubTab: Subsetting Features of Tabular Data for Self-Supervised Representation Learning. [[Paper]](https://arxiv.org/pdf/2110.04361.pdf)  
+- CORE: Self- and Semi-supervised Tabular Learning with COnditional REgularizations. [[Paper]](https://sslneurips21.github.io/files/CameraReady/CORE_workshop.pdf)
+- ARM-Net: Adaptive relation modeling network for structured data. [[Paper]](https://arxiv.org/abs/2107.01830)
+- Self-attention between datapoints: Going beyond individual input-output pairs in deep learning. [[Paper]](https://arxiv.org/abs/2106.02584)
+- Well-tuned simple nets excel on tabular datasets. [[Paper]](https://arxiv.org/abs/2106.11189)
+- Boost then convolve: Gradient boosting meets graph neural networks. [[Paper]](https://arxiv.org/abs/2101.08543)
+- SCARF: Self-supervised contrastive learning using random feature corruption. [[Paper]](https://arxiv.org/abs/2106.15147)
 ---
 
 ## 2022
@@ -63,7 +71,8 @@ This repository contains awesome tabular deep learning.
 - Local Contrastive Feature Learning for Tabular Data [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557630)  
 - TransTab: Learning Transferable Tabular Transformers Across Tables [[Paper]](https://arxiv.org/abs/2205.09328)  
 - Self-supervised Representation Learning Across Sequential and Tabular Features Using Transformers [[Paper]](https://openreview.net/pdf?id=wIIJlmr1Dsk)
-
+- GANDALF: Gated additive tree ensemble for tabular classification and regression. [[Paper]](https://arxiv.org/abs/2207.08548)
+- TabDDPM: Modelling tabular data with diffusion models. [[Paper]](https://arxiv.org/abs/2209.15421)
 ---
 
 ## 2023
@@ -103,7 +112,8 @@ This repository contains awesome tabular deep learning.
 - One Transformer for All Time Series: Representing and Training with Time-Dependent Heterogeneous Tabular Data [[Paper]](https://arxiv.org/pdf/2302.06375)  
 - NAPG: Non-Autoregressive Program Generation for Hybrid Tabular-Textual Question Answering [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_46)  
 - ReConTab: Regularized Contrastive Representation Learning for Tabular Data [[Paper]](https://arxiv.org/pdf/2310.18541.pdf)
-
+- Trompt: Towards a Better Deep Neural Network for Tabular Data. [[Paper]](https://arxiv.org/abs/2305.18446)
+- HYTREL: Hypergraph-Enhanced Tabular Data Representation Learning. [[Paper]](https://arxiv.org/abs/2307.08623)
 ---
 
 ## 2024
@@ -113,7 +123,7 @@ This repository contains awesome tabular deep learning.
 - DataFrame QA: A Universal LLM Framework on DataFrame Question Answering Without Data Exposure [[Paper]](https://arxiv.org/abs/2401.15463)  
 - SwitchTab: Switched Autoencoders Are Effective Tabular Learners [[Paper]](https://arxiv.org/pdf/2401.02013.pdf)  
 - LLM on Tabular Data: Prediction, Generation, and Understanding (Survey Paper) [[Paper]](https://arxiv.org/abs/2402.17944)  
-- Large Language Model for Table Processing: A Survey (Survey Paper) [[Paper]](https://arxiv.org/abs/2402.05121)  
+- Large Language Model for Table Processing: A Survey [[Paper]](https://arxiv.org/abs/2402.05121)  
 - CABINET: Content Relevance based Noise Reduction for Table Question Answering [[Paper]](https://arxiv.org/abs/2402.01155)  
 - OpenTab: Advancing Large Language Models as Open-domain Table Reasoners [[Paper]](https://arxiv.org/abs/2402.14361)  
 - CancerGPT for few shot drug pair synergy prediction using large pretrained language models [[Paper]](https://www.nature.com/articles/s41746-024-01024-9)  
@@ -127,7 +137,7 @@ This repository contains awesome tabular deep learning.
 - Elephants Never Forget: Memorization and Learning of Tabular Data in Large Language Models [[Paper]](https://arxiv.org/abs/2404.06209)  
 - CARTE: Pretraining and Transfer for Tabular Learning [[Paper]](https://openreview.net/forum?id=9kArQnKLDp)  
 - DataBench: Question Answering over Tabular Data with DataBench [[Paper]](https://aclanthology.org/2024.lrec-main.1179/)  
-- Position: Why Tabular Foundation Models Should Be a Research Priority [[Paper]](https://openreview.net/forum?id=amRSBdZlw9)  
+- Why Tabular Foundation Models Should Be a Research Priority [[Paper]](https://openreview.net/forum?id=amRSBdZlw9)  
 - UniTabE: A Universal Pretraining Protocol for Tabular Foundation Model in Data Science [[Paper]](https://arxiv.org/abs/2307.09249)  
 - Struc-Bench: Are Large Language Models Good at Generating Complex Structured Tabular Data? [[Paper]](https://aclanthology.org/2024.naacl-short.2/)  
 - DTT: An Example-Driven Tabular Transformer for Joinability by Leveraging Large Language Models [[Paper]](https://arxiv.org/pdf/2303.06748)  
@@ -141,5 +151,13 @@ This repository contains awesome tabular deep learning.
 - Large Scale Transfer Learning for Tabular Data via Language Modeling [[Paper]](https://arxiv.org/abs/2406.12031)
 - A Survey on Self-Supervised Learning for Non-Sequential Tabular Data [[Paper]](http://arxiv.org/abs/2402.01204)
 - Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution [[Paper]](https://arxiv.org/pdf/2408.10548)
+- Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy and Directions. [[Paper]](https://arxiv.org/abs/2401.02143)
+- Mambatab: A Plug-and-Play Model for Learning Tabular Data. [[Paper]](https://arxiv.org/abs/2401.08867)
+- TabTranSELU: A Transformer Adaptation for Solving Tabular Data. [[Paper]](https://www.ewadirect.com/proceedings/ace/article/view/10853)
+- BiSHop: Bi-Directional Cellular Learning for Tabular Data with Generalized Sparse Modern Hopfield Model. [[Paper]](https://arxiv.org/abs/2404.03830)
+- TabR: Tabular Deep Learning Meets Nearest Neighbors. [[Paper]](https://openreview.net/forum?id=rhgIgTSSxW)
 
+## 2025
+
+- Accurate predictions on small data with a tabular foundation model. [[Paper]](https://www.nature.com/articles/s41586-024-08328-6)
 ---
