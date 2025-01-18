@@ -114,6 +114,7 @@ This repository contains awesome tabular deep learning.
 - ReConTab: Regularized Contrastive Representation Learning for Tabular Data [[Paper]](https://arxiv.org/pdf/2310.18541.pdf)
 - Trompt: Towards a Better Deep Neural Network for Tabular Data. [[Paper]](https://arxiv.org/abs/2305.18446)
 - HYTREL: Hypergraph-Enhanced Tabular Data Representation Learning. [[Paper]](https://arxiv.org/abs/2307.08623)
+- Embeddings for Tabular Data: A Survey. [[Paper]](https://arxiv.org/abs/2302.11777)
 ---
 
 ## 2024
@@ -156,8 +157,10 @@ This repository contains awesome tabular deep learning.
 - TabTranSELU: A Transformer Adaptation for Solving Tabular Data. [[Paper]](https://www.ewadirect.com/proceedings/ace/article/view/10853)
 - BiSHop: Bi-Directional Cellular Learning for Tabular Data with Generalized Sparse Modern Hopfield Model. [[Paper]](https://arxiv.org/abs/2404.03830)
 - TabR: Tabular Deep Learning Meets Nearest Neighbors. [[Paper]](https://openreview.net/forum?id=rhgIgTSSxW)
+- Retrieval & Fine-Tuning for In-Context Tabular Models. [[Paper]](https://openreview.net/forum?id=337dHOexCM&referrer=%5Bthe%20profile%20of%20Anthony%20L.%20Caterini%5D(%2Fprofile%3Fid%3D~Anthony_L._Caterini1))
 
 ## 2025
 
 - Accurate predictions on small data with a tabular foundation model. [[Paper]](https://www.nature.com/articles/s41586-024-08328-6)
+Deep Learning within Tabular Data: Foundations, Challenges, Advances and Future Directions. [[Paper]](https://arxiv.org/abs/2501.03540)
 ---
