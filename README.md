@@ -162,5 +162,6 @@ This repository contains awesome tabular deep learning.
 ## 2025
 
 - Accurate predictions on small data with a tabular foundation model. [[Paper]](https://www.nature.com/articles/s41586-024-08328-6)
-Deep Learning within Tabular Data: Foundations, Challenges, Advances and Future Directions. [[Paper]](https://arxiv.org/abs/2501.03540)
+- Deep Learning within Tabular Data: Foundations, Challenges, Advances and Future Directions. [[Paper]](https://arxiv.org/abs/2501.03540)
+- Towards Data-Centric AI: A Comprehensive Survey of Traditional, Reinforcement, and Generative Approaches for Tabular Data Transformation. [[Paper]](https://arxiv.org/abs/2501.10555)
 ---
