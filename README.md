@@ -164,4 +164,13 @@ This repository contains awesome tabular deep learning.
 - Accurate predictions on small data with a tabular foundation model. [[Paper]](https://www.nature.com/articles/s41586-024-08328-6)
 - Deep Learning within Tabular Data: Foundations, Challenges, Advances and Future Directions. [[Paper]](https://arxiv.org/abs/2501.03540)
 - Towards Data-Centric AI: A Comprehensive Survey of Traditional, Reinforcement, and Generative Approaches for Tabular Data Transformation. [[Paper]](https://arxiv.org/abs/2501.10555)
+- Continuous Diffusion for Mixed-Type Tabular Data. [[Paper]](https://openreview.net/forum?id=QPtoBPn4lZ)
+- DRL: Decomposed Representation Learning for Tabular Anomaly Detection. [[Paper]](https://openreview.net/forum?id=CJnceDksRd)
+- Diffusion Transformers for Tabular Data Time Series Generation. [[Paper]](https://openreview.net/forum?id=bhOysNJvWm)
+- TabReD: Analyzing Pitfalls and Filling the Gaps in Tabular Deep Learning Benchmarks. [[Paper]](https://openreview.net/forum?id=L14sqcrUC3)
+- TabM: Advancing tabular deep learning with parameter-efficient ensembling. [[Paper]](https://openreview.net/forum?id=Sd4wYYOhmY)
+- Small Models are LLM Knowledge Triggers for Medical Tabular Prediction. [[Paper]](https://openreview.net/forum?id=WoPovNkM5h)
+- Mixture of In-Context Prompters for Tabular PFNs. [[Paper]](https://openreview.net/forum?id=2fojNANZSv)
+- TabDiff: a Mixed-type Diffusion Model for Tabular Data Generation. [[Paper]](https://openreview.net/forum?id=swvURjrt8z)
+- CTSyn: A Foundation Model for Cross Tabular Data Generation. [[Paper]](https://openreview.net/forum?id=Sh4FOyZRpv)
 ---
